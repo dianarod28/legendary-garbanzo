@@ -1,0 +1,10 @@
+Practice 04
+
+What function do we use to start a session?
+
+We use PHP global variable: $_SESSION
+
+Where are these session variables stored?
+
+These are being stored of user information to be used across multiple pages.
+
